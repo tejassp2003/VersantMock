@@ -30,6 +30,11 @@
     padding: 60px;
 
 }
+.heading{
+ 
+    display: flex;
+    justify-content: space-between;
+}
 .instruction{
     font-size: 30px;
     font-weight: bold;
@@ -40,25 +45,17 @@
     display: flex;
     flex-direction:column;
     justify-content: space-around;
-    padding: 30px;
+    padding: 20px;
     
-    
-}
-.tininput{
-    
-}
-.sub_content>h3
-{
-    color:#273c75;
 }
 .box{
-    background-color:#273c75;
+    background-color:rgb(233, 243, 243);
     padding:15px;
     width: 100%;
 }
 .paragraph{
     font-size:16px;
     font-weight:12px;
-    color: white;
+    color: black;
     padding:10px;
 }

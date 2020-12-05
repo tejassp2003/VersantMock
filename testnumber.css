@@ -38,13 +38,26 @@
 }
 .sub_content{
     display: flex;
-    flex-direction:column;
-    justify-content: space-around;
+    flex-direction:row;
+    
     padding: 30px;
     
     
 }
+.content{
+    width: 50%;
+}
 .tininput{
+    padding: 10px;
+    margin-left: 20%;
+}
+.tininput>input{
+    padding: 10px 30px 10px 30px;
+    font-size:20px;
+    box-shadow: 0px 0px 3px rgb(54, 54, 204);
+}
+.tininput>input:active
+{
     
 }
 .sub_content>h3
