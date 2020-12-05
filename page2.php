@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="page3.css">
+    <link rel="stylesheet" href="page2.css">
     <title>Versant</title>
 </head>
 <body>
@@ -14,15 +14,13 @@
         <div class="main_content">
             <div class="box">
                 <div class="instruction">
-                    Ready to begin?
+                    Quite Please.
                 </div>
 
                 <div class="sub_content">
+                    <h3>Take this test in a quiet location without distractions</h3>
                     <div class="paragraph">
-                        Follow the on-screen instructions to proceed through the test.
-                    </div>
-                    <div class="timer">
-                        <img src="./resources/timer.png" />
+                        Please close all other computer programs and turn off all electronic devices.
                     </div>
                 </div>
             </div>
