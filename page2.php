@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="test.css">
+    <link rel="stylesheet" href="page2.css">
     <title>Versant</title>
 </head>
 <body>
@@ -19,7 +19,7 @@
 
                 <div class="sub_content">
                     <div class="paragraph">
-                        Follow the on-screen instructions to proceed through the test
+                        Follow the on-screen instructions to proceed through the test.
                     </div>
                     <div class="timer">
 
