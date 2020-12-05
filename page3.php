@@ -22,7 +22,7 @@
                         Follow the on-screen instructions to proceed through the test.
                     </div>
                     <div class="timer">
-
+                        <img src="./resources/timer.png" />
                     </div>
                 </div>
             </div>
