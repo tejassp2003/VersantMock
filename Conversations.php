@@ -14,16 +14,16 @@
         <div class="heading">
             <div class="instruction">
                 <div class="aicon">
-                    C
+                    D
                 </div>
-                Sentence Builds
+                Conversations
             </div>
         </div>
         
         <div class="sub_content">
             <div class="box">
                 <div class="paragraph">
-                    Please arrange the word groups into sentences.
+                    You will hear a conversation between two people, followed by a question. Give a short, simple answer to the question.
                 </div>
             </div>
             <div class="boxes">
@@ -34,8 +34,7 @@
                     <div class="voice">
                         <h3>You say:</h3>
                     </div>
-                </div>
-                <div class="content">
+                </div><div class="content">
                     <div class="box1">
                         "Sentence"
                     </div>

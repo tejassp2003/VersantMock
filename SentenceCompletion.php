@@ -14,28 +14,27 @@
         <div class="heading">
             <div class="instruction">
                 <div class="aicon">
-                    C
+                    F
                 </div>
-                Sentence Builds
+                Sentence Completion
             </div>
         </div>
         
         <div class="sub_content">
             <div class="box">
                 <div class="paragraph">
-                    Please arrange the word groups into sentences.
+                    Please type one word that best fits the meaning of the sentence. Type only one word. You will have 25 seconds for each sentence. Click "Next" when you are finished.
                 </div>
             </div>
             <div class="boxes">
                 <div class="head">
                     <div class="hear">
-                        <h3>You hear:</h3>
+                        <h3>You see:</h3>
                     </div>
                     <div class="voice">
-                        <h3>You say:</h3>
+                        <h3>You type:</h3>
                     </div>
-                </div>
-                <div class="content">
+                </div><div class="content">
                     <div class="box1">
                         "Sentence"
                     </div>
