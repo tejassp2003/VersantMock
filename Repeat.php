@@ -18,14 +18,10 @@
                 </div>
                 Repeat
             </div>
-            <div class="instruction">
-                Instructions
-            </div>
         </div>
         
         <div class="sub_content">
             <div class="box">
-               
                 <div class="paragraph">
                     Please repeat each sentence that you hear.
                 </div>
