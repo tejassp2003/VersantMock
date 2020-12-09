@@ -13,8 +13,7 @@
     display: inline-block;
 }
 .navbar{
-    width: 100%;
-    height: 30px;
+    width: 100vw;
     display:flex;
     align-items: center;
     padding: 10px;
@@ -64,4 +63,37 @@ input[type=text]{
     width: 300px;
     height: 20px;
 
+}
+.nav_icons
+{
+    float: right;
+    display:flex;
+    justify-content: center;
+}
+
+.icon
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    text-decoration: none;
+}
+
+.icon > span 
+{
+    padding-left: 15px;
+    font-size: 22px;
+    font-weight: 600;
+    color: #464646;
+    padding-bottom: 1px;
+}
+
+.replay_icon
+{
+    font-size: 40px;    
+    color: #464646;
+}
+a{
+    text-decoration: none;
 }
